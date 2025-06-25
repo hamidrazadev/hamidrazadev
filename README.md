@@ -14,9 +14,9 @@
 ### Here are some of my projects:
 
 - [MovieStack – Search and Watch Movies Trailer](https://movie-stack-tau.vercel.app/)
-- [NewsGen – See News All Over the World](https://hamidwebs.github.io/NewsGen/)
-- [TextUtils – Edit And Customized Text](https://hamidwebs.github.io/TextUtils/)
-- [See How Much Time Remaining in New Year](https://hamidwebs.github.io/Time-Remaining-in-New-Year/)
+- [NewsGen – See News All Over the World](https://hamidrazadev.github.io/NewsGen/)
+- [TextUtils – Edit And Customized Text](https://hamidrazadev.github.io/TextUtils/)
+- [See How Much Time Remaining in New Year](https://hamidrazadev.github.io/Time-Remaining-in-New-Year/)
 
 ## 📫 How to Reach Me
 
