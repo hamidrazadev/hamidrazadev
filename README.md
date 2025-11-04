@@ -28,7 +28,7 @@
 ## 📫 How to Reach Me
 
 - **Email:** [itmughal2023@gmail.com](mailto:itmughal2023@gmail.com)  
-- **Portfolio:** [https://hamidrazadev.com](hamidrazadev.com)  
+- **Portfolio:** [hamidrazadev.com](https://hamidrazadev.com)  
 
 ---
 
