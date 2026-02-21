@@ -62,9 +62,7 @@ I also have foundational backend experience, including **CRUD operations** using
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=hamidrazadev&theme=dark&hide_border=false)
 ![GitHub Streak](https://nirzak-streak-stats.vercel.app/?user=hamidrazadev&theme=dark)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hamidrazadev&layout=compact&theme=dark)
 
 ---
 
