@@ -1,5 +1,3 @@
-# 💫 About Me
-
 ## Muhammad Hamid Raza | Frontend Web Developer 🚀
 
 👋 Hi, I’m **Muhammad Hamid Raza**, a passionate **Frontend Web Developer** and **MERN Stack enthusiast**.  
@@ -64,13 +62,9 @@ I also have foundational backend experience, including **CRUD operations** using
 
 ## 📊 GitHub Stats
 
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=hamidrazadev&theme=dark&hide_border=false)
 ![GitHub Streak](https://nirzak-streak-stats.vercel.app/?user=hamidrazadev&theme=dark)
-
----
-
-## 🏆 GitHub Trophies
-
-![Trophies](https://github-profile-trophy.vercel.app/?username=hamidrazadev&theme=radical&no-frame=false&margin-w=4)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hamidrazadev&layout=compact&theme=dark)
 
 ---
 
