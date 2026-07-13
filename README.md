@@ -23,9 +23,9 @@ I also have foundational backend experience, including **CRUD operations** using
 - REST API Integration
 
 ### 🧰 Design & Tools
-- Figma, Adobe XD, Adobe Photoshop
+- Figma, Adobe Photoshop
 - Git & GitHub
-- Vercel Deployment
+- Vercel and Netify Deployment
 
 ---
 
