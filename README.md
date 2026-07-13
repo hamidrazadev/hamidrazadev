@@ -25,7 +25,7 @@ I also have foundational backend experience, including **CRUD operations** using
 ### 🧰 Design & Tools
 - Figma, Adobe Photoshop
 - Git & GitHub
-- Vercel and Netify Deployment
+- Vercel and Netlify Deployment
 
 ---
 
